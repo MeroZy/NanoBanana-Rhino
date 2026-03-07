@@ -2,7 +2,7 @@
 A seamless bridge between **Rhino 3D** and **Google Gemini AI** for rapid architectural visualization.
 
 ## 📥 Download
-[**Click here to download latest version**](https://github.com/YOUR_USERNAME/NanoBanana-Rhino/raw/main/YOUR_FILE_NAME.rhp)
+[**Click here to download latest version**](https://github.com/MeroZy/NanoBanana-Rhino/raw/main/Ai%20Render%20Gemini.rhp)
 
 ## 🛠️ How to Install
 1. **Download** the file from the link above.
