@@ -13,8 +13,8 @@ Click the button to download
 1. **Download** the `.rhi` file from the link above.
 2. **Close** any active instances of Rhino.
 3. **Double-click** the downloaded `.rhi` file to launch the Rhino Installer Engine and follow the prompts to install.
-4. **Open Rhino** and type **Ai_Render** in the command bar.
-5. The plugin panel will appear; you can dock or pin it anywhere in your Rhino layout.
+4. **Open Rhino** and type `Ai_Render` in the command bar.
+5. The plugin panel will appear, you can dock or pin it anywhere in your Rhino layout.
 
 ## 🆕 What's New in v1.2.0
 
