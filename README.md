@@ -4,7 +4,7 @@ A seamless bridge between **Rhino 3D** and **Google Gemini AI** for rapid archit
 ## 📥 Download
 Click the button to download
 <p align="left">
-  <a href="https://github.com/MeroZy/NanoBanana-Rhino/raw/main/Ai%20Render%20Gemini.rhi">
+  <a href="https://github.com/MeroZy/NanoBanana-Rhino/raw/main/Ai_Render_Gemini.rhi">
     <img src="https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION_(.RHI)-blue?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Download NanoBanana" height="50">
   </a>
 </p>
