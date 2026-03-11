@@ -16,7 +16,7 @@ Click the button to download
 4. **Open Rhino** and type `Ai_Render` in the command bar.
 5. The plugin panel will appear, you can dock or pin it anywhere in your Rhino layout.
 
-## 🆕 What's New in v1.2.0
+## 🆕 What's New in v1.2.1
 
 **✨ New Settings Menu**
 * **🖥️ Viewport Control:** Auto-switch to Rendered mode (or your preferred custom mode) before capture.
