@@ -1,4 +1,4 @@
-# 🍌 NanoBanana 2: Rhino AI Plugin [![Visits Badge](https://badges.pufler.dev/visits/MeroZy/NanoBanana-Rhino)](https://badges.pufler.dev)
+# 🍌 NanoBanana 2: Rhino AI Plugin ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMeroZy%2FNanoBanana-Rhino&label=Visits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 A seamless bridge between **Rhino 3D** and **Google Gemini AI** for rapid architectural visualization.
 
 ## 📥 Download
