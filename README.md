@@ -1,4 +1,4 @@
-# 🍌 NanoBanana 2: Rhino AI Plugin
+# 🍌 NanoBanana 2: Rhino AI Plugin <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMeroZy%2FNanoBanana-Rhino&label=Users&icon=github&color=%231aa179&message=&style=flat&tz=UTC">
 A seamless bridge between **Rhino 3D** and **Google Gemini AI** for rapid architectural visualization.
 
 ## 📥 Download
