@@ -16,20 +16,27 @@ Click the button to download
 4. **Open Rhino** and type `Ai_Render` in the command bar.
 5. The plugin panel will appear, you can dock or pin it anywhere in your Rhino layout.
 
-## 🆕 What's New in v1.2.1
+## 🆕 What's New in v1.2.2 (Hotfix)
 
-**✨ New Settings Menu**
-* **🖥️ Viewport Control:** Auto-switch to Rendered mode (or your preferred custom mode) before capture.
-* **🎯 Quality Presets:** New resolution selector for Standard, Square AI, and High-Res modes.
-* **📁 Local Archiving:** Automatically save your generated Rhino captures locally to your Documents folder.
-* **🔍 Folder Shortcut:** Added an 'Open Folder' button with automatic path validation.
+**🛠️ Login Detection Fix**
+* **🔐 Connection Stability:** New, highly robust scanning for Google 'Sign In' status to prevent panel freezing and ensure a smooth connection to Gemini.
+* **👋 Personalized UI:** Better detection of your Google profile name for the welcome message.
+
+**🚀 Performance & Stability**
+* **⚡ Rapid Update Check:** Integrated cache-busting to ensure you see the latest patch notes instantly and corrected the 'Checking for updates' hang in the Settings menu.
+* **✨ Features Refined:** Smoother coordinate mapping for the Snip tool on high-DPI displays, and fixed a bug where the Documents shortcut wouldn't trigger on certain systems.
+
+---
+
+## 🌟 Core Features
 
 **✂️ Snip & Crop Tool**
-* **📸 Precision Capture:** New Snip mode allows you to crop specific areas of the Rhino viewport instead of capturing the entire screen.
+* **📸 Precision Capture:** Don't just render the whole screen—use the Snip mode to crop specific areas of the Rhino viewport and focus the AI exactly where you want it.
 
-**🚀 System Improvements**
-* **🔄 Enhanced Updates:** More stable background checking and smoother installation.
-* **🛠️ UI Polish:** Fixed dropdown clipping and improved layout grouping in the settings dialog for a cleaner, professional look.
+**⚙️ Smart Settings Menu**
+* **🖥️ Viewport Control:** Auto-switch to Rendered mode (or your preferred custom display mode) right before capturing.
+* **🎯 Quality Presets:** Choose the perfect output with resolution selectors for Standard, Square AI, and High-Res modes.
+* **📁 Local Archiving:** Automatically save a copy of every AI generation directly to your Documents folder, complete with a quick-access 'Open Folder' button.
 
 ## 💡 Notes
 * The plugin requires **Gemini account** to function.
